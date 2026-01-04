@@ -3603,7 +3603,6 @@ createbtn.MouseButton1Click:Connect(function()
 end)
 
 
-RefreshExplorer()
 code_editor.Text = "print('hello')"
 code_editor.Font = FONT
 code_editor.TextSize = FONT_SIZE
