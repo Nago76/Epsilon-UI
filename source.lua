@@ -3615,6 +3615,7 @@ createTabs("hi")
 createTabs("yoo get out")
 addLog("[Core] UI Initialized!", Enum.MessageType.MessageInfo)
 Log.MessageOut:Connect(addLog)
+RefreshExplorer()
 
 
 
